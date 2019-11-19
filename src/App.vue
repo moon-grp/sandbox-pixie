@@ -133,7 +133,7 @@
    <v-row max-height="100vh" class="mt-8  section">
      <v-col class="mr-7 ml-12">
        <v-row>
-         <span>
+         <span class="font-weight-black">
            Quick Links
          </span>
          </v-row>
@@ -156,7 +156,7 @@
 
      <v-col>
        <v-row>
-         <span>
+         <span class="font-weight-black">
            Company
          </span>
          </v-row>
@@ -179,7 +179,7 @@
 
       <v-col>
        <v-row>
-         <span>
+         <span class="font-weight-black">
            Contact Us
          </span>
          </v-row>
@@ -200,6 +200,13 @@
        </v-row>
      </v-col>
 
+   </v-row>
+
+   <v-row>
+      <v-footer>
+    
+    <div justify-center align-center>&copy; {{ new Date().getFullYear() }}</div> 
+  </v-footer>
    </v-row>
   </v-app>
 </template>
