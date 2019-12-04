@@ -15,7 +15,7 @@
           transition="scale-transition"
           width="40"
         />
-        <span>PeeXoo</span>
+        <span>Pixie</span>
       </div>
 
       <v-spacer></v-spacer>
